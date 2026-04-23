@@ -1,2 +1,2 @@
 # Data_Science_Projects
-There are notebooks included in this repository in which I show my skills in data cleaning, manipulation, vusialization and developing ML and DL models.
+There are notebooks included in this repository that shwon my skills in data cleaning, manipulation, visualization and developing ML and DL models.
